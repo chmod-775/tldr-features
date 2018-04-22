@@ -1,0 +1,1 @@
+from apple_store_comments_extractor import AppleStoreCommentsExtractor
